@@ -1,0 +1,6 @@
+2020-11-24 12:22:18,101  INFO [com.falcon.training.test.runner.TestNGRunner.main()] ChatBox:51 - Opening browser: chrome
+2020-11-24 12:22:34,259  INFO [com.falcon.training.test.runner.TestNGRunner.main()] ChatBox:51 - Maximizing browser window
+2020-11-24 12:22:35,873  INFO [com.falcon.training.test.runner.TestNGRunner.main()] WindowHandlerImpl:51 - Navigated to frame with name chat-widget
+2020-11-24 12:22:45,966  INFO [com.falcon.training.test.runner.TestNGRunner.main()] ChatBox:51 - entering Name.. 
+2020-11-24 12:22:46,742  INFO [com.falcon.training.test.runner.TestNGRunner.main()] SlackReportListener:51 - Please enable slack integration for sending notification to slack channel. Set 'slack.enable=true' for getting test results on your slack channel
+2020-11-24 12:22:46,752 ERROR [com.falcon.training.test.runner.TestNGRunner.main()] TestNGRunner:89 - Results are not uploaded because uploadResults flag is set to false
